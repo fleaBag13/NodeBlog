@@ -1,0 +1,22 @@
+{
+  "name": "nodeblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fleaBag13/NodeBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fleaBag13/NodeBlog/issues"
+  },
+  "homepage": "https://github.com/fleaBag13/NodeBlog#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

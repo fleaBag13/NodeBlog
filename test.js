@@ -3,7 +3,7 @@ const fs = require('fs');
 
 const server = http.createServer((req, res) => {
     //console.log('request made');
-    console.log(req.url);
+    console.log(req.url, req.method);
 
     res.setHeader('Content-Type', 'text/html');
 
